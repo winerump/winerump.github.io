@@ -7,13 +7,23 @@
     <title>WineRump</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <style>
-        body {
-            margin: 0;
-            padding: 0;
-            font-family: Arial, sans-serif;
+        body{
             background-image: url('./img/bg.png'); /* Replace with your actual image URL */
             background-size: cover;
             background-position: center;
+        }
+
+        .subcontent{
+            color:#fff;
+            text-align:center;
+            align-items:center;
+            font-family: Arial, sans-serif;
+        }
+
+        .maincontent {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
             height: 100vh;
             display: flex;
             align-items: center;
@@ -23,8 +33,11 @@
         }
 
         .content {
-            max-width: 800px;
+            max-width: 600px;
             padding: 20px;
+        }
+
+        .box{
             background: rgba(0, 0, 0, 0.7);
             border-radius: 10px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
@@ -46,18 +59,79 @@
             border: none;
             color: aliceblue;
         }
+        a:link {
+        color: white;
+        text-decoration: none;
+        }
+        a:visited{
+            color:white;
+            text-decoration: none;
+        }
+
+        .sponsors_image{
+            max-width: 300px;
+        }
+
+
     </style>
 </head>
 <body>
-    <div class="">
-        <h1>Wine Rump</h1>
-        <p>Sep 2024</p>
-        <i>Bordeaux</i>
-        <p>
-            <button><i class="fab fa-twitter-square"></i></button>
-            <button><i class="fa-solid fa-envelope"></i></button>
-            <button onclick='window.location.href="https://discord.gg/emcDDqYd7r"'><i class="fa-brands fa-discord"></i></button>
+    <div class="maincontent">
+        <div class="content box">
+            <h1>Wine Rump 🍇</h1>
+            <p>🗓️ 6 Septembre 2024 - 🕖 19h</p>
+            <p>
+                <i><a href="https://maps.app.goo.gl/7JY3Hw3bp9mM3MoD6">La belle saison</a> - Bordeaux</i>
+            </p>
+            <p class="">
+                <button onclick='window.location.href="https://twitter.com/winerump"'><i class="fab fa-twitter-square"></i></button>
+                <button><i class="fa-solid fa-envelope"></i></button>
+                <button onclick='window.location.href="https://discord.gg/emcDDqYd7r"'><i class="fa-brands fa-discord"></i></button>
+            </p>
+            <p>
+                <a href="#">Billetterie (prochainement)</a>
+            </p>
+            <p class="">
+                <a href="#about">🍸 L'évènement</a>
+                <a href="#cfp">🔊 CFP</a>
+                <a href="#sponsors">🍷 Sponsors</a>
+            </p>
+        </div>
+    </div>
+    <br/>
+    <div class="subcontent box">
+        <h1 id="about">L'évènement</h1>
+        <div>
+            <p>Vous avez aimé BeeRumP ? Vous allez adorer WineRump ! </p>
+            <p>Une conférence cyber technique avec du vin 🍷 et du jus de raisin 🍇 dans une guinguette à Bordeaux.</p>
+            <p>Simple, efficace, technique et convivial 🍷</p>
+        </div>
+    </div>
+    <div class="subcontent box">
+        <h1 id="cfp">CFP</h1>
+        <div>
+            <p></p>
+            <p>Envie de proposer un sujet ?</p>
+            <i>Format 20 min, sujets techniques et/ou fun accpetés.</i>
+            <p>contact[at]rump.wine</p>
+        </div>
+    </div>
+    <div class="subcontent box">
+        <h1 id="sponsors">Sponsors</h1>
+        <i></i>
+        <div>
+            <p>
+            <img onclick="window.location.href='https://fenrisk.com/fr/'" class="sponsors_image" src="https://res.cloudinary.com/dt1yqyzci/image/upload/v1713282937/Fenrisk-04_fbno70.png" alt="">
+            <img onclick="window.location.href='https://harfanglab.io/en/'" class="sponsors_image" src="https://res.cloudinary.com/dt1yqyzci/image/upload/v1713283005/logo-harfanglab_ncxu0m.svg" alt="">
+            <img onclick="window.location.href='https://www.knock-knock.fr/'" class="sponsors_image" src="https://res.cloudinary.com/dt1yqyzci/image/upload/v1713283043/LOGO_KNOCKKNOCK_suwrem.png" alt="">
+            </p>
+            <p>
+            <img onclick="window.location.href='https://www.randorisec.fr/fr/'" class="sponsors_image" src="https://res.cloudinary.com/dt1yqyzci/image/upload/v1713283121/logorandorisec_visvut.png" alt="">
+            <img onclick="window.location.href='https://www.strangebee.com/'" class="sponsors_image" src="https://res.cloudinary.com/dt1yqyzci/image/upload/v1713283121/strangebee_jff44z.svg" alt="">
+            <img onclick="window.location.href='https://www.synacktiv.com/'" class="sponsors_image" src="https://res.cloudinary.com/dt1yqyzci/image/upload/v1713283125/logo_synacktiv_blanc_g4zssc.png" alt="">
         </p>
+
+        </div>
     </div>
 </body>
 </html>
