@@ -1,0 +1,26 @@
+:root {
+    --vp-c-brand-1: #bd34fe
+    --vp-c-brand-2: #bd34fe;
+}
+
+table {
+    width: 100% !important;
+    /* Étendre le tableau */
+    table-layout: auto;
+    /* Ajuster la taille des colonnes */
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}
+
+/* Éviter que le texte dépasse */
+td {
+    white-space: normal !important;
+    word-break: break-word !important;
+}
+
+/* Centrer le contenu principal */
+.VPDoc {
+    max-width: 1200px;
+    /* Ajuste selon tes besoins */
+    margin: 0 auto;
+}
