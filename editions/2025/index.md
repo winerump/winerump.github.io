@@ -1,6 +1,6 @@
 # 2025
 
-## Hackvens 2025 - La belle saison
+## Winerump 2025 - La belle saison
 
 Pour cette édition, rendez vous le **26 Septembre** à [La Belle Saison](https://maps.app.goo.gl/X2wfp2rte3S8VUSf9) à partir de 19h.
 
@@ -10,7 +10,7 @@ Le CFP est ouvert : contact[at]rump.wine
 
 ## Sponsors
 
-Cette édition est sponsoriése par :
+Cette édition est sponsorisée par :
 
 ### Randorisec
 
