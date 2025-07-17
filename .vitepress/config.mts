@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "WineRump",
   description: "Une soirée de rumps sur Bordeaux",
+  appearance: "force-dark",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
