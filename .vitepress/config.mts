@@ -24,7 +24,8 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'twitter', link: 'https://x.com/winerump' },
-      { icon: 'linkedin', link: 'https://linkedin.com/winerump' }
+      { icon: 'linkedin', link: 'https://linkedin.com/winerump' },
+      { icon: 'discord', link: 'https://discord.com/invite/emcDDqYd7r'}
     ]
   }
 })
