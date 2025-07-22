@@ -4,6 +4,8 @@ import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 import './style.css'
 import './custom.css'
+import imgWhiteBg from './components/imgWhiteBg.vue'
+
 
 export default {
   extends: DefaultTheme,
@@ -14,5 +16,6 @@ export default {
   },
   enhanceApp({ app, router, siteData }) {
     // ...
+    app.component('imgWhiteBg',imgWhiteBg)
   }
 } satisfies Theme

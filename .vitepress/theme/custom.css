@@ -24,3 +24,10 @@ td {
     /* Ajuste selon tes besoins */
     margin: 0 auto;
 }
+
+.bg-white {
+	background-color: #e9e5e5;
+}
+img {
+ width:100%;
+}
