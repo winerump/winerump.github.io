@@ -21,7 +21,7 @@ Cette édition est sponsorisée par :
 ![](./medias/synacktiv.png)
 
 ### Epsilon 
-<imgWhiteBg src="/medias/epsilon.png" />
+<imgWhiteBg src="/medias/epsilon.svg" />
 
 ### HarfangLab 
 
