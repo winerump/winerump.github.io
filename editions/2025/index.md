@@ -25,7 +25,7 @@ Cette édition est sponsorisée par :
 
 ### HarfangLab 
 
-![](./medias/harfanglab.png)
+![](./medias/harfanglab.svg)
 
 ### Strangebee
-![](./medias/strangebee.svg)
+![](./medias/strangebee.png)
