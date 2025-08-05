@@ -28,4 +28,4 @@ Cette édition est sponsorisée par :
 ![](./medias/harfanglab.png)
 
 ### Strangebee
-![](./medias/epsilon.svg)
+![](./medias/strangebee.svg)
