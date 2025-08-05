@@ -21,11 +21,11 @@ Cette édition est sponsorisée par :
 ![](./medias/synacktiv.png)
 
 ### Epsilon 
-<imgWhiteBg src="/medias/epsilon.svg" />
+![](./medias/epsilon.svg)
 
 ### HarfangLab 
 
 ![](./medias/harfanglab.png)
 
 ### Strangebee
-<imgWhiteBg src="/medias/strangebee.svg" />
+![](./medias/epsilon.svg)
