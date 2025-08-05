@@ -13,6 +13,9 @@ hero:
     - theme: alt
       text: Précédentes éditions
       link: /editions/
+    - theme: brand
+      text: Billetterie
+      link: https://www.helloasso.com/associations/beerump/evenements/winerump-2025
 features:
   - title: Next event
     details: 26/09/2025
