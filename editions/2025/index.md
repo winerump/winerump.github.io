@@ -8,6 +8,11 @@ Pour cette édition, rendez vous le **26 Septembre** à [La Belle Saison](https:
 
 Le CFP est ouvert : contact[at]rump.wine
 
+## Programme
+
+Voici le programme (non définitif) des rumps:
+![](./medias/WineRump2025_Rumps.png)
+
 ## Sponsors
 
 Cette édition est sponsorisée par :
