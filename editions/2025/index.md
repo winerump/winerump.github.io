@@ -1,16 +1,28 @@
 # 2025
 
-## Winerump 2025 - La belle saison
+## Winerump 2025 - La belle saison - 26/09/2025
 
-Pour cette édition, rendez vous le **26 Septembre** à [La Belle Saison](https://maps.app.goo.gl/X2wfp2rte3S8VUSf9) à partir de 19h.
+## Slides des rumps
 
-## Rumps
+[Bypassing ASLR on MIPS32 using simple mathematics - Frederick Kaludis](./%231_Frederick_Kaludis.pdf)
 
-Le CFP est ouvert : contact[at]rump.wine
+[RETEX: Allo helpdesk ? J'ai besoin d'un compte - Kévin Tellier](./%232_Kevin_Tellier.pdf)
+
+[Extraction et l'analyse du firmware d'une imprimante - Cleptho](./%233_Cleptho.pdf)
+
+[MDT, where are you ? - BlackWasp](./%234_BlackWasp.pdf)
+
+[Mapping the killchain with AuditMapper - Félix Billieres](./%235_Felix_Billieres.pdf)
+
+[Plongeon dans DCSync - Yohan Fevre](./%236_Yohan%20Fevre.pdf)
+
+[It's RPC time! - Margaux Dabert](./%237_Margaux_Dabert.pdf)
+
+[Anatomie d'une Fortission - Arnaud L.](./%238_Arnaud.pdf)
 
 ## Programme
 
-Voici le programme (non définitif) des rumps:
+Voici le programme des rumps:
 ![](./medias/WineRump2025_Rumps.png)
 
 ## Sponsors
