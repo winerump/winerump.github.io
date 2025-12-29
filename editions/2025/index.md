@@ -8,21 +8,21 @@
 
 ## Slides des rumps
 
-[Bypassing ASLR on MIPS32 using simple mathematics - Frederick Kaludis](https://raw.githubusercontent.com/winerump/winerump.github.io/refs/heads/main/editions/2024/%231_Frederick_Kaludis.pdf)
+[Bypassing ASLR on MIPS32 using simple mathematics - Frederick Kaludis](https://raw.githubusercontent.com/winerump/winerump.github.io/refs/heads/main/editions/2025/%231_Frederick_Kaludis.pdf)
 
-[RETEX: Allo helpdesk ? J'ai besoin d'un compte - Kévin Tellier](https://raw.githubusercontent.com/winerump/winerump.github.io/refs/heads/main/editions/2024/%232_Kevin_Tellier.pdf)
+[RETEX: Allo helpdesk ? J'ai besoin d'un compte - Kévin Tellier](https://raw.githubusercontent.com/winerump/winerump.github.io/refs/heads/main/editions/2025/%232_Kevin_Tellier.pdf)
 
-[Extraction et l'analyse du firmware d'une imprimante - Cleptho](https://raw.githubusercontent.com/winerump/winerump.github.io/refs/heads/main/editions/2024/%233_Cleptho.pdf)
+[Extraction et l'analyse du firmware d'une imprimante - Cleptho](https://raw.githubusercontent.com/winerump/winerump.github.io/refs/heads/main/editions/2025/%233_Cleptho.pdf)
 
-[MDT, where are you ? - BlackWasp](https://raw.githubusercontent.com/winerump/winerump.github.io/refs/heads/main/editions/2024/%234_BlackWasp.pdf)
+[MDT, where are you ? - BlackWasp](https://raw.githubusercontent.com/winerump/winerump.github.io/refs/heads/main/editions/2025/%234_BlackWasp.pdf)
 
-[Mapping the killchain with AuditMapper - Félix Billieres](https://raw.githubusercontent.com/winerump/winerump.github.io/refs/heads/main/editions/2024/%235_Felix_Billieres.pdf)
+[Mapping the killchain with AuditMapper - Félix Billieres](https://raw.githubusercontent.com/winerump/winerump.github.io/refs/heads/main/editions/2025/%235_Felix_Billieres.pdf)
 
-[Plongeon dans DCSync - Yohan Fevre](https://raw.githubusercontent.com/winerump/winerump.github.io/refs/heads/main/editions/2024/%236_Yohan%20Fevre.pdf)
+[Plongeon dans DCSync - Yohan Fevre](https://raw.githubusercontent.com/winerump/winerump.github.io/refs/heads/main/editions/2025/%236_Yohan%20Fevre.pdf)
 
-[It's RPC time! - Margaux Dabert](https://raw.githubusercontent.com/winerump/winerump.github.io/refs/heads/main/editions/2024/%237_Margaux_Dabert.pdf)
+[It's RPC time! - Margaux Dabert](https://raw.githubusercontent.com/winerump/winerump.github.io/refs/heads/main/editions/2025/%237_Margaux_Dabert.pdf)
 
-[Anatomie d'une Fortission - Arnaud L.](https://raw.githubusercontent.com/winerump/winerump.github.io/refs/heads/main/editions/2024/%238_Arnaud.pdf)
+[Anatomie d'une Fortission - Arnaud L.](https://raw.githubusercontent.com/winerump/winerump.github.io/refs/heads/main/editions/2025/%238_Arnaud.pdf)
 
 ## Sponsors
 
