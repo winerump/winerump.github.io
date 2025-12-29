@@ -2,28 +2,27 @@
 
 ## Winerump 2025 - La belle saison - 26/09/2025
 
-## Slides des rumps
-
-[Bypassing ASLR on MIPS32 using simple mathematics - Frederick Kaludis](./%231_Frederick_Kaludis.pdf)
-
-[RETEX: Allo helpdesk ? J'ai besoin d'un compte - Kévin Tellier](./%232_Kevin_Tellier.pdf)
-
-[Extraction et l'analyse du firmware d'une imprimante - Cleptho](./%233_Cleptho.pdf)
-
-[MDT, where are you ? - BlackWasp](./%234_BlackWasp.pdf)
-
-[Mapping the killchain with AuditMapper - Félix Billieres](./%235_Felix_Billieres.pdf)
-
-[Plongeon dans DCSync - Yohan Fevre](./%236_Yohan%20Fevre.pdf)
-
-[It's RPC time! - Margaux Dabert](./%237_Margaux_Dabert.pdf)
-
-[Anatomie d'une Fortission - Arnaud L.](./%238_Arnaud.pdf)
-
 ## Programme
 
-Voici le programme des rumps:
 ![](./medias/WineRump2025_Rumps.png)
+
+## Slides des rumps
+
+[Bypassing ASLR on MIPS32 using simple mathematics - Frederick Kaludis](https://raw.githubusercontent.com/winerump/winerump.github.io/refs/heads/main/editions/2024/%231_Frederick_Kaludis.pdf)
+
+[RETEX: Allo helpdesk ? J'ai besoin d'un compte - Kévin Tellier](https://raw.githubusercontent.com/winerump/winerump.github.io/refs/heads/main/editions/2024/%232_Kevin_Tellier.pdf)
+
+[Extraction et l'analyse du firmware d'une imprimante - Cleptho](https://raw.githubusercontent.com/winerump/winerump.github.io/refs/heads/main/editions/2024/%233_Cleptho.pdf)
+
+[MDT, where are you ? - BlackWasp](https://raw.githubusercontent.com/winerump/winerump.github.io/refs/heads/main/editions/2024/%234_BlackWasp.pdf)
+
+[Mapping the killchain with AuditMapper - Félix Billieres](https://raw.githubusercontent.com/winerump/winerump.github.io/refs/heads/main/editions/2024/%235_Felix_Billieres.pdf)
+
+[Plongeon dans DCSync - Yohan Fevre](https://raw.githubusercontent.com/winerump/winerump.github.io/refs/heads/main/editions/2024/%236_Yohan%20Fevre.pdf)
+
+[It's RPC time! - Margaux Dabert](https://raw.githubusercontent.com/winerump/winerump.github.io/refs/heads/main/editions/2024/%237_Margaux_Dabert.pdf)
+
+[Anatomie d'une Fortission - Arnaud L.](https://raw.githubusercontent.com/winerump/winerump.github.io/refs/heads/main/editions/2024/%238_Arnaud.pdf)
 
 ## Sponsors
 
