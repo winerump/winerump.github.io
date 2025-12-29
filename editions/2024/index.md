@@ -6,6 +6,10 @@ layout: doc
 
 ## Winerump 2024 - La belle saison - 06/09/2024
 
+## Programme
+
+![](./medias/WineRump2024_Rumps.png)
+
 ## Slides des rumps
 
 [Blind ROPing like it's the 90's - Damien](https://raw.githubusercontent.com/winerump/winerump.github.io/refs/heads/main/editions/2024/%231_Damien.pdf)
