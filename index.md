@@ -18,7 +18,7 @@ hero:
       link: https://www.helloasso.com/associations/beerump/evenements/winerump-2025
 features:
   - title: Next event
-    details: 26/09/2025
+    details: 11/09/2026
   - title: "CFP : OPEN"
     details: contact[at]rump.wine
 #   - title: Feature C
