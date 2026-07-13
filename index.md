@@ -8,14 +8,14 @@ hero:
   tagline: "Vous avez aimé BeeRumP ? Vous allez adorer WineRump ! Une conférence cyber technique avec du vin 🍷 et du jus de raisin 🍇 dans une guinguette à Bordeaux.Simple, efficace, technique et convivial 🍷"
   actions:
     - theme: brand
-      text: Edition 2025
-      link: /editions/2025/
+      text: Edition 2026
+      link: /editions/2026/
     - theme: alt
       text: Précédentes éditions
       link: /editions/
     - theme: brand
       text: Billetterie
-      link: https://www.helloasso.com/associations/beerump/evenements/winerump-2025
+      link: https://www.helloasso.com/associations/beerump/evenements/winerump-2026
 features:
   - title: Next event
     details: 11/09/2026
